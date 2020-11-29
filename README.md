@@ -1,2 +1,2 @@
-# part1
-Assignment
+# Full-stack-exercises
+part1
