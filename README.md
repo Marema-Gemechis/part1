@@ -1,5 +1,6 @@
 # Full-stack-exercises
-part1.2
+Part1.2
+
 import React from 'react'
 import ReactDOM from 'react-dom'
 const Header = (props)=>{
@@ -74,7 +75,8 @@ const App = () => {
 ReactDOM.render(<App />, document.getElementById('root'))
 
 
-part 1.1
+Part 1.1
+
 import React from 'react'
 import ReactDOM from 'react-dom'
 const Header = (props)=>{
