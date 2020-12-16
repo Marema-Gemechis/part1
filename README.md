@@ -55,7 +55,8 @@ const App = () => {
 ReactDOM.render(<App />, document.getElementById('root'))
 
 
-PART1.2
+part1.2
+
 import React from 'react'
 import ReactDOM from 'react-dom'
 const Header = (props)=>{
